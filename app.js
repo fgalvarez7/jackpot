@@ -93,8 +93,6 @@ function playGame(computerChoice1,computerChoice2,computerChoice3){
 }
 
 
-//playerChanceElement.addEventListener("click", validateChance(computerChoice1,computerChoice2,computerChoice3));
-
 
 function playSound(soundSelected){
 
