@@ -136,10 +136,10 @@ function setCounter (result){
 
   let prize=0;
 
-  if (result=="BEST PRIZE"){
+  if (result=="BEST PRIZE !!!"){
     
-    prize=2000;
-  }else if (result == "YOU WON"){
+    prize=1000;
+  }else if (result == "YOU WON !!!"){
     prize=100;
   }else{
     prize=(-30);
