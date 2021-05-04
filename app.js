@@ -11,14 +11,14 @@ const playerChanceElement = document.getElementById("playerChance");
 
 const chanceElement =document.getElementById("countdown");
 
-var x10=1;
-var chance=5;
+let x10=1;
+let chance=5;
 
 
 
 playerChoicex10Element.addEventListener("click", setx10Button);
 
-var saldo=500;
+let saldo=500;
 
 
 function setx10Button(){
@@ -38,9 +38,9 @@ function setx10Button(){
 }
 
   
-var computerChoice1= 0;
-var computerChoice2= 0;
-var computerChoice3= 0;
+let computerChoice1= 0;
+let computerChoice2= 0;
+let computerChoice3= 0;
 
 
 
